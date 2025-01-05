@@ -1,2 +1,2 @@
-# Ethics
-Data and AI Ethics
+# Data and AI Ethics
+
